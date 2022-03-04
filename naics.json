@@ -1,0 +1,3927 @@
+{
+    "Agriculture, Forestry, Fishing and Hunting": [
+        "11"
+    ],
+    "Crop Production": [
+        "111"
+    ],
+    "Oilseed and Grain Farming": [
+        "1111"
+    ],
+    "Soybean Farming": [
+        "11111",
+        "111110"
+    ],
+    "Oilseed (except Soybean) Farming": [
+        "11112",
+        "111120"
+    ],
+    "Dry Pea and Bean Farming": [
+        "11113",
+        "111130"
+    ],
+    "Wheat Farming": [
+        "11114",
+        "111140"
+    ],
+    "Corn Farming": [
+        "11115",
+        "111150"
+    ],
+    "Rice Farming": [
+        "11116",
+        "111160"
+    ],
+    "Other Grain Farming": [
+        "11119"
+    ],
+    "Oilseed and Grain Combination Farming": [
+        "111191"
+    ],
+    "All Other Grain Farming": [
+        "111199"
+    ],
+    "Vegetable and Melon Farming": [
+        "1112",
+        "11121"
+    ],
+    "Potato Farming": [
+        "111211"
+    ],
+    "Other Vegetable (except Potato) and Melon Farming": [
+        "111219"
+    ],
+    "Fruit and Tree Nut Farming": [
+        "1113"
+    ],
+    "Orange Groves": [
+        "11131",
+        "111310"
+    ],
+    "Citrus (except Orange) Groves": [
+        "11132",
+        "111320"
+    ],
+    "Noncitrus Fruit and Tree Nut Farming": [
+        "11133"
+    ],
+    "Apple Orchards": [
+        "111331"
+    ],
+    "Grape Vineyards": [
+        "111332"
+    ],
+    "Strawberry Farming": [
+        "111333"
+    ],
+    "Berry (except Strawberry) Farming": [
+        "111334"
+    ],
+    "Tree Nut Farming": [
+        "111335"
+    ],
+    "Fruit and Tree Nut Combination Farming": [
+        "111336"
+    ],
+    "Other Noncitrus Fruit Farming": [
+        "111339"
+    ],
+    "Greenhouse, Nursery, and Floriculture Production": [
+        "1114"
+    ],
+    "Food Crops Grown Under Cover": [
+        "11141"
+    ],
+    "Mushroom Production": [
+        "111411"
+    ],
+    "Other Food Crops Grown Under Cover": [
+        "111419"
+    ],
+    "Nursery and Floriculture Production": [
+        "11142"
+    ],
+    "Nursery and Tree Production": [
+        "111421"
+    ],
+    "Floriculture Production": [
+        "111422"
+    ],
+    "Other Crop Farming": [
+        "1119"
+    ],
+    "Tobacco Farming": [
+        "11191",
+        "111910"
+    ],
+    "Cotton Farming": [
+        "11192",
+        "111920"
+    ],
+    "Sugarcane Farming": [
+        "11193",
+        "111930"
+    ],
+    "Hay Farming": [
+        "11194",
+        "111940"
+    ],
+    "All Other Crop Farming": [
+        "11199"
+    ],
+    "Sugar Beet Farming": [
+        "111991"
+    ],
+    "Peanut Farming": [
+        "111992"
+    ],
+    "All Other Miscellaneous Crop Farming": [
+        "111998"
+    ],
+    "Animal Production and Aquaculture": [
+        "112"
+    ],
+    "Cattle Ranching and Farming": [
+        "1121"
+    ],
+    "Beef Cattle Ranching and Farming": [
+        "112111"
+    ],
+    "Cattle Feedlots": [
+        "112112"
+    ],
+    "Dairy Cattle and Milk Production": [
+        "11212",
+        "112120"
+    ],
+    "Dual-Purpose Cattle Ranching and Farming": [
+        "11213",
+        "112130"
+    ],
+    "Hog and Pig Farming": [
+        "1122",
+        "11221",
+        "112210"
+    ],
+    "Poultry and Egg Production": [
+        "1123"
+    ],
+    "Chicken Egg Production": [
+        "11231",
+        "112310"
+    ],
+    "Broilers and Other Meat Type Chicken Production": [
+        "11232",
+        "112320"
+    ],
+    "Turkey Production": [
+        "11233",
+        "112330"
+    ],
+    "Poultry Hatcheries": [
+        "11234",
+        "112340"
+    ],
+    "Other Poultry Production": [
+        "11239",
+        "112390"
+    ],
+    "Sheep and Goat Farming": [
+        "1124"
+    ],
+    "Sheep Farming": [
+        "11241",
+        "112410"
+    ],
+    "Goat Farming": [
+        "11242",
+        "112420"
+    ],
+    "Aquaculture": [
+        "1125",
+        "11251"
+    ],
+    "Finfish Farming and Fish Hatcheries": [
+        "112511"
+    ],
+    "Shellfish Farming": [
+        "112512"
+    ],
+    "Other Aquaculture": [
+        "112519"
+    ],
+    "Other Animal Production": [
+        "1129"
+    ],
+    "Apiculture": [
+        "11291",
+        "112910"
+    ],
+    "Horses and Other Equine Production": [
+        "11292",
+        "112920"
+    ],
+    "Fur-Bearing Animal and Rabbit Production": [
+        "11293",
+        "112930"
+    ],
+    "All Other Animal Production": [
+        "11299",
+        "112990"
+    ],
+    "Forestry and Logging": [
+        "113"
+    ],
+    "Timber Tract Operations": [
+        "1131",
+        "11311",
+        "113110"
+    ],
+    "Forest Nurseries and Gathering of Forest Products": [
+        "1132",
+        "11321",
+        "113210"
+    ],
+    "Logging": [
+        "1133",
+        "11331",
+        "113310"
+    ],
+    "Fishing, Hunting and Trapping": [
+        "114"
+    ],
+    "Fishing": [
+        "1141",
+        "11411"
+    ],
+    "Finfish Fishing": [
+        "114111"
+    ],
+    "Shellfish Fishing": [
+        "114112"
+    ],
+    "Other Marine Fishing": [
+        "114119"
+    ],
+    "Hunting and Trapping": [
+        "1142",
+        "11421",
+        "114210"
+    ],
+    "Support Activities for Agriculture and Forestry": [
+        "115"
+    ],
+    "Support Activities for Crop Production": [
+        "1151",
+        "11511"
+    ],
+    "Cotton Ginning": [
+        "115111"
+    ],
+    "Soil Preparation, Planting, and Cultivating": [
+        "115112"
+    ],
+    "Crop Harvesting, Primarily by Machine": [
+        "115113"
+    ],
+    "Farm Labor Contractors and Crew Leaders": [
+        "115115"
+    ],
+    "Farm Management Services": [
+        "115116"
+    ],
+    "Support Activities for Animal Production": [
+        "1152",
+        "11521",
+        "115210"
+    ],
+    "Support Activities for Forestry": [
+        "1153",
+        "11531",
+        "115310"
+    ],
+    "Mining, Quarrying, and Oil and Gas Extraction": [
+        "21"
+    ],
+    "Oil and Gas Extraction": [
+        "211",
+        "2111"
+    ],
+    "Crude Petroleum Extraction": [
+        "21112",
+        "211120"
+    ],
+    "Natural Gas Extraction": [
+        "21113",
+        "211130"
+    ],
+    "Mining (except Oil and Gas)": [
+        "212"
+    ],
+    "Coal Mining": [
+        "2121",
+        "21211"
+    ],
+    "Surface Coal Mining": [
+        "212114"
+    ],
+    "Underground Coal Mining": [
+        "212115"
+    ],
+    "Metal Ore Mining": [
+        "2122"
+    ],
+    "Iron Ore Mining": [
+        "21221",
+        "212210"
+    ],
+    "Gold Ore and Silver Ore Mining": [
+        "21222",
+        "212220"
+    ],
+    "Copper, Nickel, Lead, and Zinc Mining": [
+        "21223",
+        "212230"
+    ],
+    "Other Metal Ore Mining": [
+        "21229",
+        "212290"
+    ],
+    "Nonmetallic Mineral Mining and Quarrying": [
+        "2123"
+    ],
+    "Stone Mining and Quarrying": [
+        "21231"
+    ],
+    "Dimension Stone Mining and Quarrying": [
+        "212311"
+    ],
+    "Crushed and Broken Limestone Mining and Quarrying": [
+        "212312"
+    ],
+    "Crushed and Broken Granite Mining and Quarrying": [
+        "212313"
+    ],
+    "Construction Sand and Gravel Mining": [
+        "212321"
+    ],
+    "Industrial Sand Mining": [
+        "212322"
+    ],
+    "Other Nonmetallic Mineral Mining and Quarrying": [
+        "21239",
+        "212390"
+    ],
+    "Support Activities for Mining": [
+        "213",
+        "2131",
+        "21311"
+    ],
+    "Drilling Oil and Gas Wells": [
+        "213111"
+    ],
+    "Support Activities for Oil and Gas Operations": [
+        "213112"
+    ],
+    "Support Activities for Coal Mining": [
+        "213113"
+    ],
+    "Support Activities for Metal Mining": [
+        "213114"
+    ],
+    "Utilities": [
+        "22",
+        "221"
+    ],
+    "Electric Power Generation": [
+        "22111"
+    ],
+    "Hydroelectric Power Generation": [
+        "221111"
+    ],
+    "Fossil Fuel Electric Power Generation": [
+        "221112"
+    ],
+    "Nuclear Electric Power Generation": [
+        "221113"
+    ],
+    "Solar Electric Power Generation": [
+        "221114"
+    ],
+    "Wind Electric Power Generation": [
+        "221115"
+    ],
+    "Geothermal Electric Power Generation": [
+        "221116"
+    ],
+    "Biomass Electric Power Generation": [
+        "221117"
+    ],
+    "Other Electric Power Generation": [
+        "221118"
+    ],
+    "Electric Bulk Power Transmission and Control": [
+        "221121"
+    ],
+    "Electric Power Distribution": [
+        "221122"
+    ],
+    "Natural Gas Distribution": [
+        "2212",
+        "22121",
+        "221210"
+    ],
+    "Water, Sewage and Other Systems": [
+        "2213"
+    ],
+    "Water Supply and Irrigation Systems": [
+        "22131",
+        "221310"
+    ],
+    "Sewage Treatment Facilities": [
+        "22132",
+        "221320"
+    ],
+    "Steam and Air-Conditioning Supply": [
+        "22133",
+        "221330"
+    ],
+    "Construction": [
+        "23"
+    ],
+    "Construction of Buildings": [
+        "236"
+    ],
+    "Residential Building Construction": [
+        "2361",
+        "23611"
+    ],
+    "New Housing For-Sale Builders": [
+        "236117"
+    ],
+    "Residential Remodelers": [
+        "236118"
+    ],
+    "Nonresidential Building Construction": [
+        "2362"
+    ],
+    "Industrial Building Construction": [
+        "23621",
+        "236210"
+    ],
+    "Commercial and Institutional Building Construction": [
+        "23622",
+        "236220"
+    ],
+    "Heavy and Civil Engineering Construction": [
+        "237"
+    ],
+    "Utility System Construction": [
+        "2371"
+    ],
+    "Land Subdivision": [
+        "2372",
+        "23721",
+        "237210"
+    ],
+    "Highway, Street, and Bridge Construction": [
+        "2373",
+        "23731",
+        "237310"
+    ],
+    "Other Heavy and Civil Engineering Construction": [
+        "2379",
+        "23799",
+        "237990"
+    ],
+    "Specialty Trade Contractors": [
+        "238"
+    ],
+    "Structural Steel and Precast Concrete Contractors": [
+        "23812",
+        "238120"
+    ],
+    "Framing Contractors": [
+        "23813",
+        "238130"
+    ],
+    "Masonry Contractors": [
+        "23814",
+        "238140"
+    ],
+    "Glass and Glazing Contractors": [
+        "23815",
+        "238150"
+    ],
+    "Roofing Contractors": [
+        "23816",
+        "238160"
+    ],
+    "Siding Contractors": [
+        "23817",
+        "238170"
+    ],
+    "Building Equipment Contractors": [
+        "2382"
+    ],
+    "Other Building Equipment Contractors": [
+        "23829",
+        "238290"
+    ],
+    "Building Finishing Contractors": [
+        "2383"
+    ],
+    "Drywall and Insulation Contractors": [
+        "23831",
+        "238310"
+    ],
+    "Painting and Wall Covering Contractors": [
+        "23832",
+        "238320"
+    ],
+    "Flooring Contractors": [
+        "23833",
+        "238330"
+    ],
+    "Tile and Terrazzo Contractors": [
+        "23834",
+        "238340"
+    ],
+    "Finish Carpentry Contractors": [
+        "23835",
+        "238350"
+    ],
+    "Other Building Finishing Contractors": [
+        "23839",
+        "238390"
+    ],
+    "Other Specialty Trade Contractors": [
+        "2389"
+    ],
+    "Site Preparation Contractors": [
+        "23891",
+        "238910"
+    ],
+    "All Other Specialty Trade Contractors": [
+        "23899",
+        "238990"
+    ],
+    "Manufacturing": [
+        "31-33"
+    ],
+    "Food Manufacturing": [
+        "311"
+    ],
+    "Animal Food Manufacturing": [
+        "3111",
+        "31111"
+    ],
+    "Dog and Cat Food Manufacturing": [
+        "311111"
+    ],
+    "Other Animal Food Manufacturing": [
+        "311119"
+    ],
+    "Grain and Oilseed Milling": [
+        "3112"
+    ],
+    "Flour Milling and Malt Manufacturing": [
+        "31121"
+    ],
+    "Flour Milling": [
+        "311211"
+    ],
+    "Rice Milling": [
+        "311212"
+    ],
+    "Malt Manufacturing": [
+        "311213"
+    ],
+    "Starch and Vegetable Fats and Oils Manufacturing": [
+        "31122"
+    ],
+    "Wet Corn Milling and Starch Manufacturing": [
+        "311221"
+    ],
+    "Soybean and Other Oilseed Processing": [
+        "311224"
+    ],
+    "Fats and Oils Refining and Blending": [
+        "311225"
+    ],
+    "Breakfast Cereal Manufacturing": [
+        "31123",
+        "311230"
+    ],
+    "Sugar and Confectionery Product Manufacturing": [
+        "3113"
+    ],
+    "Sugar Manufacturing": [
+        "31131"
+    ],
+    "Beet Sugar Manufacturing": [
+        "311313"
+    ],
+    "Cane Sugar Manufacturing": [
+        "311314"
+    ],
+    "Nonchocolate Confectionery Manufacturing": [
+        "31134",
+        "311340"
+    ],
+    "Chocolate and Confectionery Manufacturing": [
+        "31135"
+    ],
+    "Frozen Food Manufacturing": [
+        "31141"
+    ],
+    "Frozen Fruit, Juice, and Vegetable Manufacturing": [
+        "311411"
+    ],
+    "Frozen Specialty Food Manufacturing": [
+        "311412"
+    ],
+    "Fruit and Vegetable Canning, Pickling, and Drying": [
+        "31142"
+    ],
+    "Fruit and Vegetable Canning": [
+        "311421"
+    ],
+    "Specialty Canning": [
+        "311422"
+    ],
+    "Dried and Dehydrated Food Manufacturing": [
+        "311423"
+    ],
+    "Dairy Product Manufacturing": [
+        "3115"
+    ],
+    "Dairy Product (except Frozen) Manufacturing": [
+        "31151"
+    ],
+    "Fluid Milk Manufacturing": [
+        "311511"
+    ],
+    "Creamery Butter Manufacturing": [
+        "311512"
+    ],
+    "Cheese Manufacturing": [
+        "311513"
+    ],
+    "Ice Cream and Frozen Dessert Manufacturing": [
+        "31152",
+        "311520"
+    ],
+    "Animal Slaughtering and Processing": [
+        "3116",
+        "31161"
+    ],
+    "Animal (except Poultry) Slaughtering": [
+        "311611"
+    ],
+    "Meat Processed from Carcasses": [
+        "311612"
+    ],
+    "Rendering and Meat Byproduct Processing": [
+        "311613"
+    ],
+    "Poultry Processing": [
+        "311615"
+    ],
+    "Seafood Product Preparation and Packaging": [
+        "3117",
+        "31171",
+        "311710"
+    ],
+    "Bakeries and Tortilla Manufacturing": [
+        "3118"
+    ],
+    "Bread and Bakery Product Manufacturing": [
+        "31181"
+    ],
+    "Retail Bakeries": [
+        "311811"
+    ],
+    "Commercial Bakeries": [
+        "311812"
+    ],
+    "Cookie, Cracker, and Pasta Manufacturing": [
+        "31182"
+    ],
+    "Cookie and Cracker Manufacturing": [
+        "311821"
+    ],
+    "Tortilla Manufacturing": [
+        "31183",
+        "311830"
+    ],
+    "Other Food Manufacturing": [
+        "3119"
+    ],
+    "Snack Food Manufacturing": [
+        "31191"
+    ],
+    "Roasted Nuts and Peanut Butter Manufacturing": [
+        "311911"
+    ],
+    "Other Snack Food Manufacturing": [
+        "311919"
+    ],
+    "Coffee and Tea Manufacturing": [
+        "31192",
+        "311920"
+    ],
+    "Flavoring Syrup and Concentrate Manufacturing": [
+        "31193",
+        "311930"
+    ],
+    "Seasoning and Dressing Manufacturing": [
+        "31194"
+    ],
+    "Spice and Extract Manufacturing": [
+        "311942"
+    ],
+    "All Other Food Manufacturing": [
+        "31199"
+    ],
+    "Perishable Prepared Food Manufacturing": [
+        "311991"
+    ],
+    "All Other Miscellaneous Food Manufacturing": [
+        "311999"
+    ],
+    "Beverage and Tobacco Product Manufacturing": [
+        "312"
+    ],
+    "Beverage Manufacturing": [
+        "3121"
+    ],
+    "Soft Drink and Ice Manufacturing": [
+        "31211"
+    ],
+    "Soft Drink Manufacturing": [
+        "312111"
+    ],
+    "Bottled Water Manufacturing": [
+        "312112"
+    ],
+    "Ice Manufacturing": [
+        "312113"
+    ],
+    "Breweries": [
+        "31212",
+        "312120"
+    ],
+    "Wineries": [
+        "31213",
+        "312130"
+    ],
+    "Distilleries": [
+        "31214",
+        "312140"
+    ],
+    "Tobacco Manufacturing": [
+        "3122",
+        "31223",
+        "312230"
+    ],
+    "Textile Mills": [
+        "313"
+    ],
+    "Fiber, Yarn, and Thread Mills": [
+        "3131",
+        "31311",
+        "313110"
+    ],
+    "Fabric Mills": [
+        "3132"
+    ],
+    "Broadwoven Fabric Mills": [
+        "31321",
+        "313210"
+    ],
+    "Nonwoven Fabric Mills": [
+        "31323",
+        "313230"
+    ],
+    "Knit Fabric Mills": [
+        "31324",
+        "313240"
+    ],
+    "Textile and Fabric Finishing Mills": [
+        "31331",
+        "313310"
+    ],
+    "Fabric Coating Mills": [
+        "31332",
+        "313320"
+    ],
+    "Textile Product Mills": [
+        "314"
+    ],
+    "Textile Furnishings Mills": [
+        "3141"
+    ],
+    "Carpet and Rug Mills": [
+        "31411",
+        "314110"
+    ],
+    "Curtain and Linen Mills": [
+        "31412",
+        "314120"
+    ],
+    "Other Textile Product Mills": [
+        "3149"
+    ],
+    "Textile Bag and Canvas Mills": [
+        "31491",
+        "314910"
+    ],
+    "All Other Textile Product Mills": [
+        "31499"
+    ],
+    "All Other Miscellaneous Textile Product Mills": [
+        "314999"
+    ],
+    "Apparel Manufacturing": [
+        "315"
+    ],
+    "Apparel Knitting Mills": [
+        "3151",
+        "31512",
+        "315120"
+    ],
+    "Cut and Sew Apparel Manufacturing": [
+        "3152"
+    ],
+    "Cut and Sew Apparel Contractors": [
+        "31521",
+        "315210"
+    ],
+    "Leather and Allied Product Manufacturing": [
+        "316"
+    ],
+    "Leather and Hide Tanning and Finishing": [
+        "3161",
+        "31611",
+        "316110"
+    ],
+    "Footwear Manufacturing": [
+        "3162",
+        "31621",
+        "316210"
+    ],
+    "Other Leather and Allied Product Manufacturing": [
+        "3169",
+        "31699",
+        "316990"
+    ],
+    "Wood Product Manufacturing": [
+        "321"
+    ],
+    "Sawmills and Wood Preservation": [
+        "3211",
+        "32111"
+    ],
+    "Sawmills": [
+        "321113"
+    ],
+    "Wood Preservation": [
+        "321114"
+    ],
+    "Hardwood Veneer and Plywood Manufacturing": [
+        "321211"
+    ],
+    "Softwood Veneer and Plywood Manufacturing": [
+        "321212"
+    ],
+    "Engineered Wood Member Manufacturing": [
+        "321215"
+    ],
+    "Reconstituted Wood Product Manufacturing": [
+        "321219"
+    ],
+    "Other Wood Product Manufacturing": [
+        "3219"
+    ],
+    "Millwork": [
+        "32191"
+    ],
+    "Wood Window and Door Manufacturing": [
+        "321911"
+    ],
+    "Cut Stock, Resawing Lumber, and Planing": [
+        "321912"
+    ],
+    "Other Millwork (including Flooring)": [
+        "321918"
+    ],
+    "Wood Container and Pallet Manufacturing": [
+        "32192",
+        "321920"
+    ],
+    "All Other Wood Product Manufacturing": [
+        "32199"
+    ],
+    "Manufactured Home (Mobile Home) Manufacturing": [
+        "321991"
+    ],
+    "Prefabricated Wood Building Manufacturing": [
+        "321992"
+    ],
+    "All Other Miscellaneous Wood Product Manufacturing": [
+        "321999"
+    ],
+    "Paper Manufacturing": [
+        "322"
+    ],
+    "Pulp, Paper, and Paperboard Mills": [
+        "3221"
+    ],
+    "Pulp Mills": [
+        "32211",
+        "322110"
+    ],
+    "Paper Mills": [
+        "32212",
+        "322120"
+    ],
+    "Paperboard Mills": [
+        "32213",
+        "322130"
+    ],
+    "Converted Paper Product Manufacturing": [
+        "3222"
+    ],
+    "Paperboard Container Manufacturing": [
+        "32221"
+    ],
+    "Corrugated and Solid Fiber Box Manufacturing": [
+        "322211"
+    ],
+    "Folding Paperboard Box Manufacturing": [
+        "322212"
+    ],
+    "Other Paperboard Container Manufacturing": [
+        "322219"
+    ],
+    "Stationery Product Manufacturing": [
+        "32223",
+        "322230"
+    ],
+    "Other Converted Paper Product Manufacturing": [
+        "32229"
+    ],
+    "Sanitary Paper Product Manufacturing": [
+        "322291"
+    ],
+    "All Other Converted Paper Product Manufacturing": [
+        "322299"
+    ],
+    "Printing and Related Support Activities": [
+        "323",
+        "3231"
+    ],
+    "Printing": [
+        "32311"
+    ],
+    "Commercial Printing (except Screen and Books)": [
+        "323111"
+    ],
+    "Commercial Screen Printing": [
+        "323113"
+    ],
+    "Books Printing": [
+        "323117"
+    ],
+    "Support Activities for Printing": [
+        "32312",
+        "323120"
+    ],
+    "Petroleum and Coal Products Manufacturing": [
+        "324",
+        "3241"
+    ],
+    "Petroleum Refineries": [
+        "32411",
+        "324110"
+    ],
+    "Asphalt Paving Mixture and Block Manufacturing": [
+        "324121"
+    ],
+    "Other Petroleum and Coal Products Manufacturing": [
+        "32419"
+    ],
+    "Petroleum Lubricating Oil and Grease Manufacturing": [
+        "324191"
+    ],
+    "Chemical Manufacturing": [
+        "325"
+    ],
+    "Basic Chemical Manufacturing": [
+        "3251"
+    ],
+    "Petrochemical Manufacturing": [
+        "32511",
+        "325110"
+    ],
+    "Industrial Gas Manufacturing": [
+        "32512",
+        "325120"
+    ],
+    "Synthetic Dye and Pigment Manufacturing": [
+        "32513",
+        "325130"
+    ],
+    "Other Basic Inorganic Chemical Manufacturing": [
+        "32518",
+        "325180"
+    ],
+    "Other Basic Organic Chemical Manufacturing": [
+        "32519"
+    ],
+    "Ethyl Alcohol Manufacturing": [
+        "325193"
+    ],
+    "All Other Basic Organic Chemical Manufacturing": [
+        "325199"
+    ],
+    "Resin and Synthetic Rubber Manufacturing": [
+        "32521"
+    ],
+    "Plastics Material and Resin Manufacturing": [
+        "325211"
+    ],
+    "Synthetic Rubber Manufacturing": [
+        "325212"
+    ],
+    "Fertilizer and Compost Manufacturing": [
+        "32531"
+    ],
+    "Nitrogenous Fertilizer Manufacturing": [
+        "325311"
+    ],
+    "Phosphatic Fertilizer Manufacturing": [
+        "325312"
+    ],
+    "Fertilizer (Mixing Only) Manufacturing": [
+        "325314"
+    ],
+    "Compost Manufacturing": [
+        "325315"
+    ],
+    "Pharmaceutical and Medicine Manufacturing": [
+        "3254",
+        "32541"
+    ],
+    "Medicinal and Botanical Manufacturing": [
+        "325411"
+    ],
+    "Pharmaceutical Preparation Manufacturing": [
+        "325412"
+    ],
+    "In-Vitro Diagnostic Substance Manufacturing": [
+        "325413"
+    ],
+    "Paint, Coating, and Adhesive Manufacturing": [
+        "3255"
+    ],
+    "Paint and Coating Manufacturing": [
+        "32551",
+        "325510"
+    ],
+    "Adhesive Manufacturing": [
+        "32552",
+        "325520"
+    ],
+    "Soap and Cleaning Compound Manufacturing": [
+        "32561"
+    ],
+    "Soap and Other Detergent Manufacturing": [
+        "325611"
+    ],
+    "Polish and Other Sanitation Good Manufacturing": [
+        "325612"
+    ],
+    "Surface Active Agent Manufacturing": [
+        "325613"
+    ],
+    "Toilet Preparation Manufacturing": [
+        "32562",
+        "325620"
+    ],
+    "Printing Ink Manufacturing": [
+        "32591",
+        "325910"
+    ],
+    "Explosives Manufacturing": [
+        "32592",
+        "325920"
+    ],
+    "Custom Compounding of Purchased Resins": [
+        "325991"
+    ],
+    "Plastics and Rubber Products Manufacturing": [
+        "326"
+    ],
+    "Plastics Product Manufacturing": [
+        "3261"
+    ],
+    "Plastics Bag and Pouch Manufacturing": [
+        "326111"
+    ],
+    "Unlaminated Plastics Profile Shape Manufacturing": [
+        "326121"
+    ],
+    "Plastics Pipe and Pipe Fitting Manufacturing": [
+        "326122"
+    ],
+    "Polystyrene Foam Product Manufacturing": [
+        "32614",
+        "326140"
+    ],
+    "Plastics Bottle Manufacturing": [
+        "32616",
+        "326160"
+    ],
+    "Other Plastics Product Manufacturing": [
+        "32619"
+    ],
+    "Plastics Plumbing Fixture Manufacturing": [
+        "326191"
+    ],
+    "All Other Plastics Product Manufacturing": [
+        "326199"
+    ],
+    "Rubber Product Manufacturing": [
+        "3262"
+    ],
+    "Tire Manufacturing": [
+        "32621"
+    ],
+    "Tire Manufacturing (except Retreading)": [
+        "326211"
+    ],
+    "Tire Retreading": [
+        "326212"
+    ],
+    "Other Rubber Product Manufacturing": [
+        "32629"
+    ],
+    "Rubber Product Manufacturing for Mechanical Use": [
+        "326291"
+    ],
+    "All Other Rubber Product Manufacturing": [
+        "326299"
+    ],
+    "Nonmetallic Mineral Product Manufacturing": [
+        "327"
+    ],
+    "Clay Product and Refractory Manufacturing": [
+        "3271"
+    ],
+    "Glass and Glass Product Manufacturing": [
+        "3272",
+        "32721"
+    ],
+    "Flat Glass Manufacturing": [
+        "327211"
+    ],
+    "Glass Container Manufacturing": [
+        "327213"
+    ],
+    "Cement and Concrete Product Manufacturing": [
+        "3273"
+    ],
+    "Cement Manufacturing": [
+        "32731",
+        "327310"
+    ],
+    "Ready-Mix Concrete Manufacturing": [
+        "32732",
+        "327320"
+    ],
+    "Concrete Pipe, Brick, and Block Manufacturing": [
+        "32733"
+    ],
+    "Concrete Block and Brick Manufacturing": [
+        "327331"
+    ],
+    "Concrete Pipe Manufacturing": [
+        "327332"
+    ],
+    "Other Concrete Product Manufacturing": [
+        "32739",
+        "327390"
+    ],
+    "Lime and Gypsum Product Manufacturing": [
+        "3274"
+    ],
+    "Lime Manufacturing": [
+        "32741",
+        "327410"
+    ],
+    "Gypsum Product Manufacturing": [
+        "32742",
+        "327420"
+    ],
+    "Other Nonmetallic Mineral Product Manufacturing": [
+        "3279"
+    ],
+    "Abrasive Product Manufacturing": [
+        "32791",
+        "327910"
+    ],
+    "Cut Stone and Stone Product Manufacturing": [
+        "327991"
+    ],
+    "Ground or Treated Mineral and Earth Manufacturing": [
+        "327992"
+    ],
+    "Mineral Wool Manufacturing": [
+        "327993"
+    ],
+    "Primary Metal Manufacturing": [
+        "331"
+    ],
+    "Iron and Steel Mills and Ferroalloy Manufacturing": [
+        "3311",
+        "33111",
+        "331110"
+    ],
+    "Steel Product Manufacturing from Purchased Steel": [
+        "3312"
+    ],
+    "Rolling and Drawing of Purchased Steel": [
+        "33122"
+    ],
+    "Rolled Steel Shape Manufacturing": [
+        "331221"
+    ],
+    "Steel Wire Drawing": [
+        "331222"
+    ],
+    "Alumina and Aluminum Production and Processing": [
+        "3313",
+        "33131"
+    ],
+    "Alumina Refining and Primary Aluminum Production": [
+        "331313"
+    ],
+    "Secondary Smelting and Alloying of Aluminum": [
+        "331314"
+    ],
+    "Aluminum Sheet, Plate, and Foil Manufacturing": [
+        "331315"
+    ],
+    "Other Aluminum Rolling, Drawing, and Extruding": [
+        "331318"
+    ],
+    "Copper Rolling, Drawing, Extruding, and Alloying": [
+        "33142",
+        "331420"
+    ],
+    "Foundries": [
+        "3315"
+    ],
+    "Ferrous Metal Foundries": [
+        "33151"
+    ],
+    "Iron Foundries": [
+        "331511"
+    ],
+    "Steel Investment Foundries": [
+        "331512"
+    ],
+    "Steel Foundries (except Investment)": [
+        "331513"
+    ],
+    "Nonferrous Metal Foundries": [
+        "33152"
+    ],
+    "Nonferrous Metal Die-Casting Foundries": [
+        "331523"
+    ],
+    "Aluminum Foundries (except Die-Casting)": [
+        "331524"
+    ],
+    "Fabricated Metal Product Manufacturing": [
+        "332"
+    ],
+    "Forging and Stamping": [
+        "3321",
+        "33211"
+    ],
+    "Iron and Steel Forging": [
+        "332111"
+    ],
+    "Nonferrous Forging": [
+        "332112"
+    ],
+    "Custom Roll Forming": [
+        "332114"
+    ],
+    "Powder Metallurgy Part Manufacturing": [
+        "332117"
+    ],
+    "Cutlery and Handtool Manufacturing": [
+        "3322",
+        "33221"
+    ],
+    "Saw Blade and Handtool Manufacturing": [
+        "332216"
+    ],
+    "Architectural and Structural Metals Manufacturing": [
+        "3323"
+    ],
+    "Fabricated Structural Metal Manufacturing": [
+        "332312"
+    ],
+    "Plate Work Manufacturing": [
+        "332313"
+    ],
+    "Metal Window and Door Manufacturing": [
+        "332321"
+    ],
+    "Sheet Metal Work Manufacturing": [
+        "332322"
+    ],
+    "Power Boiler and Heat Exchanger Manufacturing": [
+        "33241",
+        "332410"
+    ],
+    "Metal Tank (Heavy Gauge) Manufacturing": [
+        "33242",
+        "332420"
+    ],
+    "Metal Can Manufacturing": [
+        "332431"
+    ],
+    "Other Metal Container Manufacturing": [
+        "332439"
+    ],
+    "Hardware Manufacturing": [
+        "3325",
+        "33251",
+        "332510"
+    ],
+    "Spring and Wire Product Manufacturing": [
+        "3326",
+        "33261"
+    ],
+    "Spring Manufacturing": [
+        "332613"
+    ],
+    "Other Fabricated Wire Product Manufacturing": [
+        "332618"
+    ],
+    "Machine Shops": [
+        "33271",
+        "332710"
+    ],
+    "Precision Turned Product Manufacturing": [
+        "332721"
+    ],
+    "Bolt, Nut, Screw, Rivet, and Washer Manufacturing": [
+        "332722"
+    ],
+    "Metal Heat Treating": [
+        "332811"
+    ],
+    "Other Fabricated Metal Product Manufacturing": [
+        "3329"
+    ],
+    "Metal Valve Manufacturing": [
+        "33291"
+    ],
+    "Industrial Valve Manufacturing": [
+        "332911"
+    ],
+    "Fluid Power Valve and Hose Fitting Manufacturing": [
+        "332912"
+    ],
+    "Plumbing Fixture Fitting and Trim Manufacturing": [
+        "332913"
+    ],
+    "Other Metal Valve and Pipe Fitting Manufacturing": [
+        "332919"
+    ],
+    "All Other Fabricated Metal Product Manufacturing": [
+        "33299"
+    ],
+    "Ball and Roller Bearing Manufacturing": [
+        "332991"
+    ],
+    "Small Arms Ammunition Manufacturing": [
+        "332992"
+    ],
+    "Ammunition (except Small Arms) Manufacturing": [
+        "332993"
+    ],
+    "Fabricated Pipe and Pipe Fitting Manufacturing": [
+        "332996"
+    ],
+    "Machinery Manufacturing": [
+        "333"
+    ],
+    "Agricultural Implement Manufacturing": [
+        "33311"
+    ],
+    "Farm Machinery and Equipment Manufacturing": [
+        "333111"
+    ],
+    "Construction Machinery Manufacturing": [
+        "33312",
+        "333120"
+    ],
+    "Mining Machinery and Equipment Manufacturing": [
+        "333131"
+    ],
+    "Industrial Machinery Manufacturing": [
+        "3332",
+        "33324"
+    ],
+    "Food Product Machinery Manufacturing": [
+        "333241"
+    ],
+    "Semiconductor Machinery Manufacturing": [
+        "333242"
+    ],
+    "All Other Industrial Machinery Manufacturing": [
+        "333248"
+    ],
+    "Metalworking Machinery Manufacturing": [
+        "3335",
+        "33351"
+    ],
+    "Industrial Mold Manufacturing": [
+        "333511"
+    ],
+    "Machine Tool Manufacturing": [
+        "333517"
+    ],
+    "Other Engine Equipment Manufacturing": [
+        "333618"
+    ],
+    "Other General Purpose Machinery Manufacturing": [
+        "3339"
+    ],
+    "Pump and Compressor Manufacturing": [
+        "33391"
+    ],
+    "Air and Gas Compressor Manufacturing": [
+        "333912"
+    ],
+    "Material Handling Equipment Manufacturing": [
+        "33392"
+    ],
+    "Elevator and Moving Stairway Manufacturing": [
+        "333921"
+    ],
+    "Conveyor and Conveying Equipment Manufacturing": [
+        "333922"
+    ],
+    "All Other General Purpose Machinery Manufacturing": [
+        "33399"
+    ],
+    "Power-Driven Handtool Manufacturing": [
+        "333991"
+    ],
+    "Welding and Soldering Equipment Manufacturing": [
+        "333992"
+    ],
+    "Packaging Machinery Manufacturing": [
+        "333993"
+    ],
+    "Industrial Process Furnace and Oven Manufacturing": [
+        "333994"
+    ],
+    "Fluid Power Cylinder and Actuator Manufacturing": [
+        "333995"
+    ],
+    "Fluid Power Pump and Motor Manufacturing": [
+        "333996"
+    ],
+    "Computer and Electronic Product Manufacturing": [
+        "334"
+    ],
+    "Computer and Peripheral Equipment Manufacturing": [
+        "3341",
+        "33411"
+    ],
+    "Electronic Computer Manufacturing": [
+        "334111"
+    ],
+    "Computer Storage Device Manufacturing": [
+        "334112"
+    ],
+    "Communications Equipment Manufacturing": [
+        "3342"
+    ],
+    "Telephone Apparatus Manufacturing": [
+        "33421",
+        "334210"
+    ],
+    "Other Communications Equipment Manufacturing": [
+        "33429",
+        "334290"
+    ],
+    "Audio and Video Equipment Manufacturing": [
+        "3343",
+        "33431",
+        "334310"
+    ],
+    "Bare Printed Circuit Board Manufacturing": [
+        "334412"
+    ],
+    "Semiconductor and Related Device Manufacturing": [
+        "334413"
+    ],
+    "Electronic Connector Manufacturing": [
+        "334417"
+    ],
+    "Other Electronic Component Manufacturing": [
+        "334419"
+    ],
+    "Analytical Laboratory Instrument Manufacturing": [
+        "334516"
+    ],
+    "Irradiation Apparatus Manufacturing": [
+        "334517"
+    ],
+    "Electric Lighting Equipment Manufacturing": [
+        "3351",
+        "33513"
+    ],
+    "Household Appliance Manufacturing": [
+        "3352"
+    ],
+    "Small Electrical Appliance Manufacturing": [
+        "33521",
+        "335210"
+    ],
+    "Major Household Appliance Manufacturing": [
+        "33522",
+        "335220"
+    ],
+    "Electrical Equipment Manufacturing": [
+        "3353",
+        "33531"
+    ],
+    "Motor and Generator Manufacturing": [
+        "335312"
+    ],
+    "Switchgear and Switchboard Apparatus Manufacturing": [
+        "335313"
+    ],
+    "Relay and Industrial Control Manufacturing": [
+        "335314"
+    ],
+    "Battery Manufacturing": [
+        "33591",
+        "335910"
+    ],
+    "Fiber Optic Cable Manufacturing": [
+        "335921"
+    ],
+    "Other Communication and Energy Wire Manufacturing": [
+        "335929"
+    ],
+    "Wiring Device Manufacturing": [
+        "33593"
+    ],
+    "Current-Carrying Wiring Device Manufacturing": [
+        "335931"
+    ],
+    "Noncurrent-Carrying Wiring Device Manufacturing": [
+        "335932"
+    ],
+    "Carbon and Graphite Product Manufacturing": [
+        "335991"
+    ],
+    "Transportation Equipment Manufacturing": [
+        "336"
+    ],
+    "Motor Vehicle Manufacturing": [
+        "3361"
+    ],
+    "Heavy Duty Truck Manufacturing": [
+        "33612",
+        "336120"
+    ],
+    "Motor Vehicle Body and Trailer Manufacturing": [
+        "3362",
+        "33621"
+    ],
+    "Motor Vehicle Body Manufacturing": [
+        "336211"
+    ],
+    "Truck Trailer Manufacturing": [
+        "336212"
+    ],
+    "Motor Home Manufacturing": [
+        "336213"
+    ],
+    "Travel Trailer and Camper Manufacturing": [
+        "336214"
+    ],
+    "Motor Vehicle Parts Manufacturing": [
+        "3363"
+    ],
+    "Motor Vehicle Brake System Manufacturing": [
+        "33634",
+        "336340"
+    ],
+    "Motor Vehicle Metal Stamping": [
+        "33637",
+        "336370"
+    ],
+    "Other Motor Vehicle Parts Manufacturing": [
+        "33639",
+        "336390"
+    ],
+    "Aerospace Product and Parts Manufacturing": [
+        "3364",
+        "33641"
+    ],
+    "Aircraft Manufacturing": [
+        "336411"
+    ],
+    "Aircraft Engine and Engine Parts Manufacturing": [
+        "336412"
+    ],
+    "Guided Missile and Space Vehicle Manufacturing": [
+        "336414"
+    ],
+    "Railroad Rolling Stock Manufacturing": [
+        "3365",
+        "33651",
+        "336510"
+    ],
+    "Ship and Boat Building": [
+        "3366",
+        "33661"
+    ],
+    "Ship Building and Repairing": [
+        "336611"
+    ],
+    "Boat Building": [
+        "336612"
+    ],
+    "Other Transportation Equipment Manufacturing": [
+        "3369",
+        "33699"
+    ],
+    "Motorcycle, Bicycle, and Parts Manufacturing": [
+        "336991"
+    ],
+    "All Other Transportation Equipment Manufacturing": [
+        "336999"
+    ],
+    "Furniture and Related Product Manufacturing": [
+        "337"
+    ],
+    "Wood Kitchen Cabinet and Countertop Manufacturing": [
+        "33711",
+        "337110"
+    ],
+    "Upholstered Household Furniture Manufacturing": [
+        "337121"
+    ],
+    "Institutional Furniture Manufacturing": [
+        "337127"
+    ],
+    "Wood Office Furniture Manufacturing": [
+        "337211"
+    ],
+    "Office Furniture (except Wood) Manufacturing": [
+        "337214"
+    ],
+    "Other Furniture Related Product Manufacturing": [
+        "3379"
+    ],
+    "Mattress Manufacturing": [
+        "33791",
+        "337910"
+    ],
+    "Blind and Shade Manufacturing": [
+        "33792",
+        "337920"
+    ],
+    "Miscellaneous Manufacturing": [
+        "339"
+    ],
+    "Medical Equipment and Supplies Manufacturing": [
+        "3391",
+        "33911"
+    ],
+    "Surgical and Medical Instrument Manufacturing": [
+        "339112"
+    ],
+    "Surgical Appliance and Supplies Manufacturing": [
+        "339113"
+    ],
+    "Dental Equipment and Supplies Manufacturing": [
+        "339114"
+    ],
+    "Ophthalmic Goods Manufacturing": [
+        "339115"
+    ],
+    "Dental Laboratories": [
+        "339116"
+    ],
+    "Other Miscellaneous Manufacturing": [
+        "3399"
+    ],
+    "Jewelry and Silverware Manufacturing": [
+        "33991",
+        "339910"
+    ],
+    "Sporting and Athletic Goods Manufacturing": [
+        "33992",
+        "339920"
+    ],
+    "Doll, Toy, and Game Manufacturing": [
+        "33993",
+        "339930"
+    ],
+    "Office Supplies (except Paper) Manufacturing": [
+        "33994",
+        "339940"
+    ],
+    "Sign Manufacturing": [
+        "33995",
+        "339950"
+    ],
+    "All Other Miscellaneous Manufacturing": [
+        "33999",
+        "339999"
+    ],
+    "Gasket, Packing, and Sealing Device Manufacturing": [
+        "339991"
+    ],
+    "Musical Instrument Manufacturing": [
+        "339992"
+    ],
+    "Fastener, Button, Needle, and Pin Manufacturing": [
+        "339993"
+    ],
+    "Broom, Brush, and Mop Manufacturing": [
+        "339994"
+    ],
+    "Burial Casket Manufacturing": [
+        "339995"
+    ],
+    "Wholesale Trade": [
+        "42"
+    ],
+    "Merchant Wholesalers, Durable Goods": [
+        "423"
+    ],
+    "Tire and Tube Merchant Wholesalers": [
+        "42313",
+        "423130"
+    ],
+    "Motor Vehicle Parts (Used) Merchant Wholesalers": [
+        "42314",
+        "423140"
+    ],
+    "Furniture Merchant Wholesalers": [
+        "42321",
+        "423210"
+    ],
+    "Home Furnishing Merchant Wholesalers": [
+        "42322",
+        "423220"
+    ],
+    "Other Construction Material Merchant Wholesalers": [
+        "42339",
+        "423390"
+    ],
+    "Office Equipment Merchant Wholesalers": [
+        "42342",
+        "423420"
+    ],
+    "Other Commercial Equipment Merchant Wholesalers": [
+        "42344",
+        "423440"
+    ],
+    "Ophthalmic Goods Merchant Wholesalers": [
+        "42346",
+        "423460"
+    ],
+    "Hardware Merchant Wholesalers": [
+        "42371",
+        "423710"
+    ],
+    "Industrial Supplies Merchant Wholesalers": [
+        "42384",
+        "423840"
+    ],
+    "Miscellaneous Durable Goods Merchant Wholesalers": [
+        "4239"
+    ],
+    "Recyclable Material Merchant Wholesalers": [
+        "42393",
+        "423930"
+    ],
+    "Merchant Wholesalers, Nondurable Goods": [
+        "424"
+    ],
+    "Paper and Paper Product Merchant Wholesalers": [
+        "4241"
+    ],
+    "Printing and Writing Paper Merchant Wholesalers": [
+        "42411",
+        "424110"
+    ],
+    "Drugs and Druggists' Sundries Merchant Wholesalers": [
+        "424210"
+    ],
+    "Footwear Merchant Wholesalers": [
+        "42434",
+        "424340"
+    ],
+    "Grocery and Related Product Merchant Wholesalers": [
+        "4244"
+    ],
+    "General Line Grocery Merchant Wholesalers": [
+        "42441",
+        "424410"
+    ],
+    "Packaged Frozen Food Merchant Wholesalers": [
+        "42442",
+        "424420"
+    ],
+    "Poultry and Poultry Product Merchant Wholesalers": [
+        "42444",
+        "424440"
+    ],
+    "Confectionery Merchant Wholesalers": [
+        "42445",
+        "424450"
+    ],
+    "Fish and Seafood Merchant Wholesalers": [
+        "42446",
+        "424460"
+    ],
+    "Meat and Meat Product Merchant Wholesalers": [
+        "42447",
+        "424470"
+    ],
+    "Fresh Fruit and Vegetable Merchant Wholesalers": [
+        "42448",
+        "424480"
+    ],
+    "Farm Product Raw Material Merchant Wholesalers": [
+        "4245"
+    ],
+    "Grain and Field Bean Merchant Wholesalers": [
+        "42451",
+        "424510"
+    ],
+    "Livestock Merchant Wholesalers": [
+        "42452",
+        "424520"
+    ],
+    "Petroleum Bulk Stations and Terminals": [
+        "42471",
+        "424710"
+    ],
+    "Beer and Ale Merchant Wholesalers": [
+        "42481",
+        "424810"
+    ],
+    "Farm Supplies Merchant Wholesalers": [
+        "42491",
+        "424910"
+    ],
+    "Paint, Varnish, and Supplies Merchant Wholesalers": [
+        "42495",
+        "424950"
+    ],
+    "Wholesale Trade Agents and Brokers": [
+        "425",
+        "4251",
+        "42512",
+        "425120"
+    ],
+    "Retail Trade": [
+        "44-45"
+    ],
+    "Motor Vehicle and Parts Dealers": [
+        "441"
+    ],
+    "Automobile Dealers": [
+        "4411"
+    ],
+    "New Car Dealers": [
+        "44111",
+        "441110"
+    ],
+    "Used Car Dealers": [
+        "44112",
+        "441120"
+    ],
+    "Other Motor Vehicle Dealers": [
+        "4412"
+    ],
+    "Recreational Vehicle Dealers": [
+        "44121",
+        "441210"
+    ],
+    "Motorcycle, Boat, and Other Motor Vehicle Dealers": [
+        "44122"
+    ],
+    "Boat Dealers": [
+        "441222"
+    ],
+    "Automotive Parts and Accessories Retailers": [
+        "44133",
+        "441330"
+    ],
+    "Tire Dealers": [
+        "44134",
+        "441340"
+    ],
+    "Building Material and Supplies Dealers": [
+        "4441"
+    ],
+    "Home Centers": [
+        "44411",
+        "444110"
+    ],
+    "Paint and Wallpaper Retailers": [
+        "44412",
+        "444120"
+    ],
+    "Hardware Retailers": [
+        "44414",
+        "444140"
+    ],
+    "Other Building Material Dealers": [
+        "44418",
+        "444180"
+    ],
+    "Lawn and Garden Equipment and Supplies Retailers": [
+        "4442"
+    ],
+    "Outdoor Power Equipment Retailers": [
+        "44423",
+        "444230"
+    ],
+    "Nursery, Garden Center, and Farm Supply Retailers": [
+        "44424",
+        "444240"
+    ],
+    "Food and Beverage Retailers": [
+        "445"
+    ],
+    "Grocery and Convenience Retailers": [
+        "4451"
+    ],
+    "Convenience Retailers": [
+        "445131"
+    ],
+    "Vending Machine Operators": [
+        "445132"
+    ],
+    "Specialty Food Retailers": [
+        "4452"
+    ],
+    "Fruit and Vegetable Retailers": [
+        "44523",
+        "445230"
+    ],
+    "Meat Retailers": [
+        "44524",
+        "445240"
+    ],
+    "Fish and Seafood Retailers": [
+        "44525",
+        "445250"
+    ],
+    "Other Specialty Food Retailers": [
+        "44529"
+    ],
+    "Baked Goods Retailers": [
+        "445291"
+    ],
+    "Confectionery and Nut Retailers": [
+        "445292"
+    ],
+    "All Other Specialty Food Retailers": [
+        "445298"
+    ],
+    "Beer, Wine, and Liquor Retailers": [
+        "4453",
+        "44532",
+        "445320"
+    ],
+    "Furniture and Home Furnishings Retailers": [
+        "4491"
+    ],
+    "Furniture Retailers": [
+        "44911",
+        "449110"
+    ],
+    "Home Furnishings Retailers": [
+        "44912"
+    ],
+    "Floor Covering Retailers": [
+        "449121"
+    ],
+    "Window Treatment Retailers": [
+        "449122"
+    ],
+    "All Other Home Furnishings Retailers": [
+        "449129"
+    ],
+    "Electronics and Appliance Retailers": [
+        "4492",
+        "44921",
+        "449210"
+    ],
+    "General Merchandise Retailers": [
+        "455"
+    ],
+    "Department Stores": [
+        "4551",
+        "45511",
+        "455110"
+    ],
+    "Warehouse Clubs and Supercenters": [
+        "455211"
+    ],
+    "All Other General Merchandise Retailers": [
+        "455219"
+    ],
+    "Health and Personal Care Retailers": [
+        "456",
+        "4561"
+    ],
+    "Pharmacies and Drug Retailers": [
+        "45611",
+        "456110"
+    ],
+    "Cosmetics, Beauty Supplies, and Perfume Retailers": [
+        "45612",
+        "456120"
+    ],
+    "Optical Goods Retailers": [
+        "45613",
+        "456130"
+    ],
+    "Other Health and Personal Care Retailers": [
+        "45619"
+    ],
+    "Food (Health) Supplement Retailers": [
+        "456191"
+    ],
+    "All Other Health and Personal Care Retailers": [
+        "456199"
+    ],
+    "Gasoline Stations and Fuel Dealers": [
+        "457"
+    ],
+    "Gasoline Stations": [
+        "4571"
+    ],
+    "Gasoline Stations with Convenience Stores": [
+        "45711",
+        "457110"
+    ],
+    "Other Gasoline Stations": [
+        "45712",
+        "457120"
+    ],
+    "Fuel Dealers": [
+        "4572",
+        "45721",
+        "457210"
+    ],
+    "Clothing and Clothing Accessories Retailers": [
+        "4581",
+        "45811",
+        "458110"
+    ],
+    "Shoe Retailers": [
+        "4582",
+        "45821",
+        "458210"
+    ],
+    "Jewelry, Luggage, and Leather Goods Retailers": [
+        "4583"
+    ],
+    "Jewelry Retailers": [
+        "45831",
+        "458310"
+    ],
+    "Luggage and Leather Goods Retailers": [
+        "45832",
+        "458320"
+    ],
+    "Sporting Goods Retailers": [
+        "45911",
+        "459110"
+    ],
+    "Hobby, Toy, and Game Retailers": [
+        "45912",
+        "459120"
+    ],
+    "Sewing, Needlework, and Piece Goods Retailers": [
+        "45913",
+        "459130"
+    ],
+    "Musical Instrument and Supplies Retailers": [
+        "45914",
+        "459140"
+    ],
+    "Book Retailers and News Dealers": [
+        "4592",
+        "45921",
+        "459210"
+    ],
+    "Florists": [
+        "4593",
+        "45931",
+        "459310"
+    ],
+    "Office Supplies, Stationery, and Gift Retailers": [
+        "4594"
+    ],
+    "Office Supplies and Stationery Retailers": [
+        "45941",
+        "459410"
+    ],
+    "Gift, Novelty, and Souvenir Retailers": [
+        "45942",
+        "459420"
+    ],
+    "Used Merchandise Retailers": [
+        "4595",
+        "45951",
+        "459510"
+    ],
+    "Other Miscellaneous Retailers": [
+        "4599"
+    ],
+    "Pet and Pet Supplies Retailers": [
+        "45991",
+        "459910"
+    ],
+    "Art Dealers": [
+        "45992",
+        "459920"
+    ],
+    "Manufactured (Mobile) Home Dealers": [
+        "45993",
+        "459930"
+    ],
+    "All Other Miscellaneous Retailers": [
+        "45999",
+        "459999"
+    ],
+    "Transportation and Warehousing": [
+        "48-49"
+    ],
+    "Air Transportation": [
+        "481"
+    ],
+    "Scheduled Air Transportation": [
+        "4811",
+        "48111"
+    ],
+    "Scheduled Passenger Air Transportation": [
+        "481111"
+    ],
+    "Scheduled Freight Air Transportation": [
+        "481112"
+    ],
+    "Nonscheduled Air Transportation": [
+        "4812",
+        "48121"
+    ],
+    "Nonscheduled Chartered Freight Air Transportation": [
+        "481212"
+    ],
+    "Other Nonscheduled Air Transportation": [
+        "481219"
+    ],
+    "Rail Transportation": [
+        "482",
+        "4821",
+        "48211"
+    ],
+    "Line-Haul Railroads": [
+        "482111"
+    ],
+    "Short Line Railroads": [
+        "482112"
+    ],
+    "Water Transportation": [
+        "483"
+    ],
+    "Deep Sea Freight Transportation": [
+        "483111"
+    ],
+    "Deep Sea Passenger Transportation": [
+        "483112"
+    ],
+    "Coastal and Great Lakes Freight Transportation": [
+        "483113"
+    ],
+    "Coastal and Great Lakes Passenger Transportation": [
+        "483114"
+    ],
+    "Inland Water Transportation": [
+        "4832",
+        "48321"
+    ],
+    "Inland Water Freight Transportation": [
+        "483211"
+    ],
+    "Inland Water Passenger Transportation": [
+        "483212"
+    ],
+    "Truck Transportation": [
+        "484"
+    ],
+    "General Freight Trucking": [
+        "4841"
+    ],
+    "General Freight Trucking, Local": [
+        "48411",
+        "484110"
+    ],
+    "General Freight Trucking, Long-Distance": [
+        "48412"
+    ],
+    "General Freight Trucking, Long-Distance, Truckload": [
+        "484121"
+    ],
+    "Specialized Freight Trucking": [
+        "4842"
+    ],
+    "Used Household and Office Goods Moving": [
+        "48421",
+        "484210"
+    ],
+    "Transit and Ground Passenger Transportation": [
+        "485"
+    ],
+    "Urban Transit Systems": [
+        "4851",
+        "48511"
+    ],
+    "Mixed Mode Transit Systems": [
+        "485111"
+    ],
+    "Commuter Rail Systems": [
+        "485112"
+    ],
+    "Bus and Other Motor Vehicle Transit Systems": [
+        "485113"
+    ],
+    "Other Urban Transit Systems": [
+        "485119"
+    ],
+    "Interurban and Rural Bus Transportation": [
+        "4852",
+        "48521",
+        "485210"
+    ],
+    "Taxi and Limousine Service": [
+        "4853"
+    ],
+    "Taxi and Ridesharing Services": [
+        "48531",
+        "485310"
+    ],
+    "Limousine Service": [
+        "48532",
+        "485320"
+    ],
+    "School and Employee Bus Transportation": [
+        "4854",
+        "48541",
+        "485410"
+    ],
+    "Charter Bus Industry": [
+        "4855",
+        "48551",
+        "485510"
+    ],
+    "Other Transit and Ground Passenger Transportation": [
+        "4859",
+        "48599"
+    ],
+    "Special Needs Transportation": [
+        "485991"
+    ],
+    "Pipeline Transportation": [
+        "486"
+    ],
+    "Pipeline Transportation of Crude Oil": [
+        "4861",
+        "48611",
+        "486110"
+    ],
+    "Pipeline Transportation of Natural Gas": [
+        "4862",
+        "48621",
+        "486210"
+    ],
+    "Other Pipeline Transportation": [
+        "4869"
+    ],
+    "All Other Pipeline Transportation": [
+        "48699",
+        "486990"
+    ],
+    "Scenic and Sightseeing Transportation": [
+        "487"
+    ],
+    "Scenic and Sightseeing Transportation, Land": [
+        "4871",
+        "48711",
+        "487110"
+    ],
+    "Scenic and Sightseeing Transportation, Water": [
+        "4872",
+        "48721",
+        "487210"
+    ],
+    "Scenic and Sightseeing Transportation, Other": [
+        "4879",
+        "48799",
+        "487990"
+    ],
+    "Support Activities for Transportation": [
+        "488"
+    ],
+    "Support Activities for Air Transportation": [
+        "4881"
+    ],
+    "Airport Operations": [
+        "48811"
+    ],
+    "Air Traffic Control": [
+        "488111"
+    ],
+    "Other Airport Operations": [
+        "488119"
+    ],
+    "Other Support Activities for Air Transportation": [
+        "48819",
+        "488190"
+    ],
+    "Support Activities for Rail Transportation": [
+        "4882",
+        "48821",
+        "488210"
+    ],
+    "Support Activities for Water Transportation": [
+        "4883"
+    ],
+    "Port and Harbor Operations": [
+        "48831",
+        "488310"
+    ],
+    "Marine Cargo Handling": [
+        "48832",
+        "488320"
+    ],
+    "Navigational Services to Shipping": [
+        "48833",
+        "488330"
+    ],
+    "Other Support Activities for Water Transportation": [
+        "48839",
+        "488390"
+    ],
+    "Support Activities for Road Transportation": [
+        "4884"
+    ],
+    "Motor Vehicle Towing": [
+        "48841",
+        "488410"
+    ],
+    "Other Support Activities for Road Transportation": [
+        "48849",
+        "488490"
+    ],
+    "Freight Transportation Arrangement": [
+        "4885",
+        "48851",
+        "488510"
+    ],
+    "Other Support Activities for Transportation": [
+        "4889",
+        "48899"
+    ],
+    "Packing and Crating": [
+        "488991"
+    ],
+    "All Other Support Activities for Transportation": [
+        "488999"
+    ],
+    "Postal Service": [
+        "491",
+        "4911",
+        "49111",
+        "491110"
+    ],
+    "Couriers and Messengers": [
+        "492"
+    ],
+    "Couriers and Express Delivery Services": [
+        "4921",
+        "49211",
+        "492110"
+    ],
+    "Local Messengers and Local Delivery": [
+        "4922",
+        "49221",
+        "492210"
+    ],
+    "Warehousing and Storage": [
+        "493",
+        "4931"
+    ],
+    "General Warehousing and Storage": [
+        "49311",
+        "493110"
+    ],
+    "Refrigerated Warehousing and Storage": [
+        "49312",
+        "493120"
+    ],
+    "Farm Product Warehousing and Storage": [
+        "49313",
+        "493130"
+    ],
+    "Other Warehousing and Storage": [
+        "49319",
+        "493190"
+    ],
+    "Information": [
+        "51"
+    ],
+    "Motion Picture and Sound Recording Industries": [
+        "512"
+    ],
+    "Motion Picture and Video Industries": [
+        "5121"
+    ],
+    "Motion Picture and Video Production": [
+        "51211",
+        "512110"
+    ],
+    "Motion Picture and Video Distribution": [
+        "51212",
+        "512120"
+    ],
+    "Motion Picture and Video Exhibition": [
+        "51213"
+    ],
+    "Motion Picture Theaters (except Drive-Ins)": [
+        "512131"
+    ],
+    "Drive-In Motion Picture Theaters": [
+        "512132"
+    ],
+    "Teleproduction and Other Postproduction Services": [
+        "512191"
+    ],
+    "Other Motion Picture and Video Industries": [
+        "512199"
+    ],
+    "Sound Recording Industries": [
+        "5122"
+    ],
+    "Music Publishers": [
+        "51223",
+        "512230"
+    ],
+    "Sound Recording Studios": [
+        "51224",
+        "512240"
+    ],
+    "Record Production and Distribution": [
+        "51225",
+        "512250"
+    ],
+    "Other Sound Recording Industries": [
+        "51229",
+        "512290"
+    ],
+    "Publishing Industries": [
+        "513"
+    ],
+    "Newspaper Publishers": [
+        "51311",
+        "513110"
+    ],
+    "Periodical Publishers": [
+        "51312",
+        "513120"
+    ],
+    "Book Publishers": [
+        "51313",
+        "513130"
+    ],
+    "Directory and Mailing List Publishers": [
+        "51314",
+        "513140"
+    ],
+    "Other Publishers": [
+        "51319"
+    ],
+    "Greeting Card Publishers": [
+        "513191"
+    ],
+    "All Other Publishers": [
+        "513199"
+    ],
+    "Software Publishers": [
+        "5132",
+        "51321",
+        "513210"
+    ],
+    "Broadcasting and Content Providers": [
+        "516"
+    ],
+    "Radio and Television Broadcasting Stations": [
+        "5161"
+    ],
+    "Radio Broadcasting Stations": [
+        "51611",
+        "516110"
+    ],
+    "Television Broadcasting Stations": [
+        "51612",
+        "516120"
+    ],
+    "Telecommunications": [
+        "517"
+    ],
+    "Wired Telecommunications Carriers": [
+        "517111"
+    ],
+    "Telecommunications Resellers": [
+        "517121"
+    ],
+    "Agents for Wireless Telecommunications Services": [
+        "517122"
+    ],
+    "Satellite Telecommunications": [
+        "5174",
+        "51741",
+        "517410"
+    ],
+    "All Other Telecommunications": [
+        "5178",
+        "51781",
+        "517810"
+    ],
+    "Libraries and Archives": [
+        "51921",
+        "519210"
+    ],
+    "Finance and Insurance": [
+        "52"
+    ],
+    "Monetary Authorities-Central Bank": [
+        "521",
+        "5211",
+        "52111",
+        "521110"
+    ],
+    "Credit Intermediation and Related Activities": [
+        "522"
+    ],
+    "Depository Credit Intermediation": [
+        "5221"
+    ],
+    "Commercial Banking": [
+        "52211",
+        "522110"
+    ],
+    "Credit Unions": [
+        "52213",
+        "522130"
+    ],
+    "Nondepository Credit Intermediation": [
+        "5222"
+    ],
+    "Credit Card Issuing": [
+        "52221",
+        "522210"
+    ],
+    "Sales Financing": [
+        "52222",
+        "522220"
+    ],
+    "Other Nondepository Credit Intermediation": [
+        "52229"
+    ],
+    "Consumer Lending": [
+        "522291"
+    ],
+    "Real Estate Credit": [
+        "522292"
+    ],
+    "Activities Related to Credit Intermediation": [
+        "5223"
+    ],
+    "Mortgage and Nonmortgage Loan Brokers": [
+        "52231",
+        "522310"
+    ],
+    "Other Activities Related to Credit Intermediation": [
+        "52239",
+        "522390"
+    ],
+    "Investment Banking and Securities Intermediation": [
+        "52315",
+        "523150"
+    ],
+    "Commodity Contracts Intermediation": [
+        "52316",
+        "523160"
+    ],
+    "Securities and Commodity Exchanges": [
+        "5232",
+        "52321",
+        "523210"
+    ],
+    "Other Financial Investment Activities": [
+        "5239"
+    ],
+    "Miscellaneous Intermediation": [
+        "52391",
+        "523910"
+    ],
+    "Portfolio Management and Investment Advice": [
+        "52394",
+        "523940"
+    ],
+    "All Other Financial Investment Activities": [
+        "52399"
+    ],
+    "Trust, Fiduciary, and Custody Activities": [
+        "523991"
+    ],
+    "Miscellaneous Financial Investment Activities": [
+        "523999"
+    ],
+    "Insurance Carriers and Related Activities": [
+        "524"
+    ],
+    "Insurance Carriers": [
+        "5241"
+    ],
+    "Direct Life Insurance Carriers": [
+        "524113"
+    ],
+    "Direct Health and Medical Insurance Carriers": [
+        "524114"
+    ],
+    "Direct Property and Casualty Insurance Carriers": [
+        "524126"
+    ],
+    "Direct Title Insurance Carriers": [
+        "524127"
+    ],
+    "Reinsurance Carriers": [
+        "52413",
+        "524130"
+    ],
+    "Insurance Agencies and Brokerages": [
+        "52421",
+        "524210"
+    ],
+    "Other Insurance Related Activities": [
+        "52429"
+    ],
+    "Claims Adjusting": [
+        "524291"
+    ],
+    "All Other Insurance Related Activities": [
+        "524298"
+    ],
+    "Funds, Trusts, and Other Financial Vehicles": [
+        "525"
+    ],
+    "Insurance and Employee Benefit Funds": [
+        "5251"
+    ],
+    "Pension Funds": [
+        "52511",
+        "525110"
+    ],
+    "Health and Welfare Funds": [
+        "52512",
+        "525120"
+    ],
+    "Other Insurance Funds": [
+        "52519",
+        "525190"
+    ],
+    "Other Investment Pools and Funds": [
+        "5259"
+    ],
+    "Open-End Investment Funds": [
+        "52591",
+        "525910"
+    ],
+    "Trusts, Estates, and Agency Accounts": [
+        "52592",
+        "525920"
+    ],
+    "Other Financial Vehicles": [
+        "52599",
+        "525990"
+    ],
+    "Real Estate and Rental and Leasing": [
+        "53"
+    ],
+    "Real Estate": [
+        "531"
+    ],
+    "Lessors of Real Estate": [
+        "5311"
+    ],
+    "Lessors of Residential Buildings and Dwellings": [
+        "53111",
+        "531110"
+    ],
+    "Lessors of Miniwarehouses and Self-Storage Units": [
+        "53113",
+        "531130"
+    ],
+    "Lessors of Other Real Estate Property": [
+        "53119",
+        "531190"
+    ],
+    "Offices of Real Estate Agents and Brokers": [
+        "5312",
+        "53121",
+        "531210"
+    ],
+    "Activities Related to Real Estate": [
+        "5313"
+    ],
+    "Real Estate Property Managers": [
+        "53131"
+    ],
+    "Residential Property Managers": [
+        "531311"
+    ],
+    "Nonresidential Property Managers": [
+        "531312"
+    ],
+    "Offices of Real Estate Appraisers": [
+        "53132",
+        "531320"
+    ],
+    "Other Activities Related to Real Estate": [
+        "53139",
+        "531390"
+    ],
+    "Rental and Leasing Services": [
+        "532"
+    ],
+    "Automotive Equipment Rental and Leasing": [
+        "5321"
+    ],
+    "Passenger Car Rental and Leasing": [
+        "53211"
+    ],
+    "Passenger Car Rental": [
+        "532111"
+    ],
+    "Passenger Car Leasing": [
+        "532112"
+    ],
+    "Consumer Goods Rental": [
+        "5322"
+    ],
+    "Consumer Electronics and Appliances Rental": [
+        "53221",
+        "532210"
+    ],
+    "Other Consumer Goods Rental": [
+        "53228"
+    ],
+    "Formal Wear and Costume Rental": [
+        "532281"
+    ],
+    "Video Tape and Disc Rental": [
+        "532282"
+    ],
+    "Home Health Equipment Rental": [
+        "532283"
+    ],
+    "Recreational Goods Rental": [
+        "532284"
+    ],
+    "All Other Consumer Goods Rental": [
+        "532289"
+    ],
+    "General Rental Centers": [
+        "5323",
+        "53231",
+        "532310"
+    ],
+    "Office Machinery and Equipment Rental and Leasing": [
+        "53242",
+        "532420"
+    ],
+    "Professional, Scientific, and Technical Services": [
+        "54",
+        "541"
+    ],
+    "Legal Services": [
+        "5411"
+    ],
+    "Offices of Lawyers": [
+        "54111",
+        "541110"
+    ],
+    "Offices of Notaries": [
+        "54112",
+        "541120"
+    ],
+    "Other Legal Services": [
+        "54119"
+    ],
+    "Title Abstract and Settlement Offices": [
+        "541191"
+    ],
+    "All Other Legal Services": [
+        "541199"
+    ],
+    "Offices of Certified Public Accountants": [
+        "541211"
+    ],
+    "Tax Preparation Services": [
+        "541213"
+    ],
+    "Payroll Services": [
+        "541214"
+    ],
+    "Other Accounting Services": [
+        "541219"
+    ],
+    "Architectural, Engineering, and Related Services": [
+        "5413"
+    ],
+    "Architectural Services": [
+        "54131",
+        "541310"
+    ],
+    "Landscape Architectural Services": [
+        "54132",
+        "541320"
+    ],
+    "Engineering Services": [
+        "54133",
+        "541330"
+    ],
+    "Drafting Services": [
+        "54134",
+        "541340"
+    ],
+    "Building Inspection Services": [
+        "54135",
+        "541350"
+    ],
+    "Geophysical Surveying and Mapping Services": [
+        "54136",
+        "541360"
+    ],
+    "Testing Laboratories and Services": [
+        "54138",
+        "541380"
+    ],
+    "Specialized Design Services": [
+        "5414"
+    ],
+    "Interior Design Services": [
+        "54141",
+        "541410"
+    ],
+    "Industrial Design Services": [
+        "54142",
+        "541420"
+    ],
+    "Graphic Design Services": [
+        "54143",
+        "541430"
+    ],
+    "Other Specialized Design Services": [
+        "54149",
+        "541490"
+    ],
+    "Computer Systems Design and Related Services": [
+        "5415",
+        "54151"
+    ],
+    "Custom Computer Programming Services": [
+        "541511"
+    ],
+    "Computer Systems Design Services": [
+        "541512"
+    ],
+    "Computer Facilities Management Services": [
+        "541513"
+    ],
+    "Other Computer Related Services": [
+        "541519"
+    ],
+    "Management Consulting Services": [
+        "54161"
+    ],
+    "Human Resources Consulting Services": [
+        "541612"
+    ],
+    "Marketing Consulting Services": [
+        "541613"
+    ],
+    "Other Management Consulting Services": [
+        "541618"
+    ],
+    "Environmental Consulting Services": [
+        "54162",
+        "541620"
+    ],
+    "Other Scientific and Technical Consulting Services": [
+        "54169",
+        "541690"
+    ],
+    "Scientific Research and Development Services": [
+        "5417"
+    ],
+    "Research and Development in Nanotechnology": [
+        "541713"
+    ],
+    "Advertising Agencies": [
+        "54181",
+        "541810"
+    ],
+    "Public Relations Agencies": [
+        "54182",
+        "541820"
+    ],
+    "Media Buying Agencies": [
+        "54183",
+        "541830"
+    ],
+    "Media Representatives": [
+        "54184",
+        "541840"
+    ],
+    "Indoor and Outdoor Display Advertising": [
+        "54185",
+        "541850"
+    ],
+    "Direct Mail Advertising": [
+        "54186",
+        "541860"
+    ],
+    "Advertising Material Distribution Services": [
+        "54187",
+        "541870"
+    ],
+    "Other Services Related to Advertising": [
+        "54189",
+        "541890"
+    ],
+    "Marketing Research and Public Opinion Polling": [
+        "54191",
+        "541910"
+    ],
+    "Photographic Services": [
+        "54192"
+    ],
+    "Photography Studios, Portrait": [
+        "541921"
+    ],
+    "Commercial Photography": [
+        "541922"
+    ],
+    "Translation and Interpretation Services": [
+        "54193",
+        "541930"
+    ],
+    "Veterinary Services": [
+        "54194",
+        "541940"
+    ],
+    "Management of Companies and Enterprises": [
+        "55",
+        "551",
+        "5511",
+        "55111"
+    ],
+    "Offices of Bank Holding Companies": [
+        "551111"
+    ],
+    "Offices of Other Holding Companies": [
+        "551112"
+    ],
+    "Administrative and Support and Waste Management and": [
+        "56"
+    ],
+    "Administrative and Support Services": [
+        "561"
+    ],
+    "Office Administrative Services": [
+        "5611",
+        "56111",
+        "561110"
+    ],
+    "Facilities Support Services": [
+        "5612",
+        "56121",
+        "561210"
+    ],
+    "Employment Services": [
+        "5613"
+    ],
+    "Employment Placement Agencies": [
+        "561311"
+    ],
+    "Executive Search Services": [
+        "561312"
+    ],
+    "Temporary Help Services": [
+        "56132",
+        "561320"
+    ],
+    "Professional Employer Organizations": [
+        "56133",
+        "561330"
+    ],
+    "Business Support Services": [
+        "5614"
+    ],
+    "Document Preparation Services": [
+        "56141",
+        "561410"
+    ],
+    "Telephone Call Centers": [
+        "56142"
+    ],
+    "Telephone Answering Services": [
+        "561421"
+    ],
+    "Telemarketing Bureaus and Other Contact Centers": [
+        "561422"
+    ],
+    "Business Service Centers": [
+        "56143"
+    ],
+    "Private Mail Centers": [
+        "561431"
+    ],
+    "Collection Agencies": [
+        "56144",
+        "561440"
+    ],
+    "Credit Bureaus": [
+        "56145",
+        "561450"
+    ],
+    "Other Business Support Services": [
+        "56149"
+    ],
+    "Repossession Services": [
+        "561491"
+    ],
+    "Court Reporting and Stenotype Services": [
+        "561492"
+    ],
+    "All Other Business Support Services": [
+        "561499"
+    ],
+    "Travel Arrangement and Reservation Services": [
+        "5615"
+    ],
+    "Travel Agencies": [
+        "56151",
+        "561510"
+    ],
+    "Tour Operators": [
+        "56152",
+        "561520"
+    ],
+    "Other Travel Arrangement and Reservation Services": [
+        "56159"
+    ],
+    "Convention and Visitors Bureaus": [
+        "561591"
+    ],
+    "Investigation and Security Services": [
+        "5616"
+    ],
+    "Investigation, Guard, and Armored Car Services": [
+        "56161"
+    ],
+    "Security Guards and Patrol Services": [
+        "561612"
+    ],
+    "Armored Car Services": [
+        "561613"
+    ],
+    "Security Systems Services": [
+        "56162"
+    ],
+    "Security Systems Services (except Locksmiths)": [
+        "561621"
+    ],
+    "Locksmiths": [
+        "561622"
+    ],
+    "Services to Buildings and Dwellings": [
+        "5617"
+    ],
+    "Exterminating and Pest Control Services": [
+        "56171",
+        "561710"
+    ],
+    "Janitorial Services": [
+        "56172",
+        "561720"
+    ],
+    "Landscaping Services": [
+        "56173",
+        "561730"
+    ],
+    "Carpet and Upholstery Cleaning Services": [
+        "56174",
+        "561740"
+    ],
+    "Other Services to Buildings and Dwellings": [
+        "56179",
+        "561790"
+    ],
+    "Other Support Services": [
+        "5619"
+    ],
+    "Packaging and Labeling Services": [
+        "56191",
+        "561910"
+    ],
+    "Convention and Trade Show Organizers": [
+        "56192",
+        "561920"
+    ],
+    "All Other Support Services": [
+        "56199",
+        "561990"
+    ],
+    "Waste Management and Remediation Services": [
+        "562"
+    ],
+    "Waste Collection": [
+        "5621",
+        "56211"
+    ],
+    "Solid Waste Collection": [
+        "562111"
+    ],
+    "Hazardous Waste Collection": [
+        "562112"
+    ],
+    "Other Waste Collection": [
+        "562119"
+    ],
+    "Waste Treatment and Disposal": [
+        "5622",
+        "56221"
+    ],
+    "Hazardous Waste Treatment and Disposal": [
+        "562211"
+    ],
+    "Solid Waste Landfill": [
+        "562212"
+    ],
+    "Solid Waste Combustors and Incinerators": [
+        "562213"
+    ],
+    "Other Nonhazardous Waste Treatment and Disposal": [
+        "562219"
+    ],
+    "Remediation and Other Waste Management Services": [
+        "5629"
+    ],
+    "Remediation Services": [
+        "56291",
+        "562910"
+    ],
+    "Materials Recovery Facilities": [
+        "56292",
+        "562920"
+    ],
+    "All Other Waste Management Services": [
+        "56299"
+    ],
+    "Septic Tank and Related Services": [
+        "562991"
+    ],
+    "All Other Miscellaneous Waste Management Services": [
+        "562998"
+    ],
+    "Educational Services": [
+        "61",
+        "611"
+    ],
+    "Elementary and Secondary Schools": [
+        "6111",
+        "61111",
+        "611110"
+    ],
+    "Junior Colleges": [
+        "6112",
+        "61121",
+        "611210"
+    ],
+    "Colleges, Universities, and Professional Schools": [
+        "6113",
+        "61131",
+        "611310"
+    ],
+    "Business and Secretarial Schools": [
+        "61141",
+        "611410"
+    ],
+    "Computer Training": [
+        "61142",
+        "611420"
+    ],
+    "Professional and Management Development Training": [
+        "61143",
+        "611430"
+    ],
+    "Technical and Trade Schools": [
+        "6115",
+        "61151"
+    ],
+    "Cosmetology and Barber Schools": [
+        "611511"
+    ],
+    "Flight Training": [
+        "611512"
+    ],
+    "Apprenticeship Training": [
+        "611513"
+    ],
+    "Other Technical and Trade Schools": [
+        "611519"
+    ],
+    "Other Schools and Instruction": [
+        "6116"
+    ],
+    "Fine Arts Schools": [
+        "61161",
+        "611610"
+    ],
+    "Sports and Recreation Instruction": [
+        "61162",
+        "611620"
+    ],
+    "Language Schools": [
+        "61163",
+        "611630"
+    ],
+    "All Other Schools and Instruction": [
+        "61169"
+    ],
+    "Exam Preparation and Tutoring": [
+        "611691"
+    ],
+    "Automobile Driving Schools": [
+        "611692"
+    ],
+    "All Other Miscellaneous Schools and Instruction": [
+        "611699"
+    ],
+    "Educational Support Services": [
+        "6117",
+        "61171",
+        "611710"
+    ],
+    "Health Care and Social Assistance": [
+        "62"
+    ],
+    "Ambulatory Health Care Services": [
+        "621"
+    ],
+    "Offices of Physicians": [
+        "6211",
+        "62111"
+    ],
+    "Offices of Physicians, Mental Health Specialists": [
+        "621112"
+    ],
+    "Offices of Dentists": [
+        "6212",
+        "62121",
+        "621210"
+    ],
+    "Offices of Other Health Practitioners": [
+        "6213"
+    ],
+    "Offices of Chiropractors": [
+        "62131",
+        "621310"
+    ],
+    "Offices of Optometrists": [
+        "62132",
+        "621320"
+    ],
+    "Offices of All Other Health Practitioners": [
+        "62139"
+    ],
+    "Offices of Podiatrists": [
+        "621391"
+    ],
+    "Outpatient Care Centers": [
+        "6214"
+    ],
+    "Family Planning Centers": [
+        "62141",
+        "621410"
+    ],
+    "Other Outpatient Care Centers": [
+        "62149"
+    ],
+    "HMO Medical Centers": [
+        "621491"
+    ],
+    "Kidney Dialysis Centers": [
+        "621492"
+    ],
+    "All Other Outpatient Care Centers": [
+        "621498"
+    ],
+    "Medical and Diagnostic Laboratories": [
+        "6215",
+        "62151"
+    ],
+    "Medical Laboratories": [
+        "621511"
+    ],
+    "Diagnostic Imaging Centers": [
+        "621512"
+    ],
+    "Home Health Care Services": [
+        "6216",
+        "62161",
+        "621610"
+    ],
+    "Other Ambulatory Health Care Services": [
+        "6219"
+    ],
+    "Ambulance Services": [
+        "62191",
+        "621910"
+    ],
+    "All Other Ambulatory Health Care Services": [
+        "62199"
+    ],
+    "Blood and Organ Banks": [
+        "621991"
+    ],
+    "Hospitals": [
+        "622"
+    ],
+    "General Medical and Surgical Hospitals": [
+        "6221",
+        "62211",
+        "622110"
+    ],
+    "Psychiatric and Substance Abuse Hospitals": [
+        "6222",
+        "62221",
+        "622210"
+    ],
+    "Nursing and Residential Care Facilities": [
+        "623"
+    ],
+    "Continuing Care Retirement Communities": [
+        "623311"
+    ],
+    "Assisted Living Facilities for the Elderly": [
+        "623312"
+    ],
+    "Other Residential Care Facilities": [
+        "6239",
+        "62399",
+        "623990"
+    ],
+    "Social Assistance": [
+        "624"
+    ],
+    "Individual and Family Services": [
+        "6241"
+    ],
+    "Child and Youth Services": [
+        "62411",
+        "624110"
+    ],
+    "Other Individual and Family Services": [
+        "62419",
+        "624190"
+    ],
+    "Community Food Services": [
+        "62421",
+        "624210"
+    ],
+    "Community Housing Services": [
+        "62422"
+    ],
+    "Temporary Shelters": [
+        "624221"
+    ],
+    "Other Community Housing Services": [
+        "624229"
+    ],
+    "Emergency and Other Relief Services": [
+        "62423",
+        "624230"
+    ],
+    "Vocational Rehabilitation Services": [
+        "6243",
+        "62431",
+        "624310"
+    ],
+    "Child Care Services": [
+        "6244",
+        "62441",
+        "624410"
+    ],
+    "Arts, Entertainment, and Recreation": [
+        "71"
+    ],
+    "Performing Arts Companies": [
+        "7111"
+    ],
+    "Theater Companies and Dinner Theaters": [
+        "71111",
+        "711110"
+    ],
+    "Dance Companies": [
+        "71112",
+        "711120"
+    ],
+    "Musical Groups and Artists": [
+        "71113",
+        "711130"
+    ],
+    "Other Performing Arts Companies": [
+        "71119",
+        "711190"
+    ],
+    "Spectator Sports": [
+        "7112",
+        "71121"
+    ],
+    "Sports Teams and Clubs": [
+        "711211"
+    ],
+    "Racetracks": [
+        "711212"
+    ],
+    "Other Spectator Sports": [
+        "711219"
+    ],
+    "Independent Artists, Writers, and Performers": [
+        "7115",
+        "71151",
+        "711510"
+    ],
+    "Museums": [
+        "71211",
+        "712110"
+    ],
+    "Historical Sites": [
+        "71212",
+        "712120"
+    ],
+    "Zoos and Botanical Gardens": [
+        "71213",
+        "712130"
+    ],
+    "Nature Parks and Other Similar Institutions": [
+        "71219",
+        "712190"
+    ],
+    "Amusement, Gambling, and Recreation Industries": [
+        "713"
+    ],
+    "Amusement Parks and Arcades": [
+        "7131"
+    ],
+    "Amusement and Theme Parks": [
+        "71311",
+        "713110"
+    ],
+    "Amusement Arcades": [
+        "71312",
+        "713120"
+    ],
+    "Gambling Industries": [
+        "7132"
+    ],
+    "Casinos (except Casino Hotels)": [
+        "71321",
+        "713210"
+    ],
+    "Other Gambling Industries": [
+        "71329",
+        "713290"
+    ],
+    "Other Amusement and Recreation Industries": [
+        "7139"
+    ],
+    "Golf Courses and Country Clubs": [
+        "71391",
+        "713910"
+    ],
+    "Skiing Facilities": [
+        "71392",
+        "713920"
+    ],
+    "Marinas": [
+        "71393",
+        "713930"
+    ],
+    "Fitness and Recreational Sports Centers": [
+        "71394",
+        "713940"
+    ],
+    "Bowling Centers": [
+        "71395",
+        "713950"
+    ],
+    "All Other Amusement and Recreation Industries": [
+        "71399",
+        "713990"
+    ],
+    "Accommodation and Food Services": [
+        "72"
+    ],
+    "Accommodation": [
+        "721"
+    ],
+    "Traveler Accommodation": [
+        "7211"
+    ],
+    "Hotels (except Casino Hotels) and Motels": [
+        "72111",
+        "721110"
+    ],
+    "Casino Hotels": [
+        "72112",
+        "721120"
+    ],
+    "Other Traveler Accommodation": [
+        "72119"
+    ],
+    "Bed-and-Breakfast Inns": [
+        "721191"
+    ],
+    "All Other Traveler Accommodation": [
+        "721199"
+    ],
+    "RV (Recreational Vehicle) Parks and Campgrounds": [
+        "721211"
+    ],
+    "Food Services and Drinking Places": [
+        "722"
+    ],
+    "Special Food Services": [
+        "7223"
+    ],
+    "Food Service Contractors": [
+        "72231",
+        "722310"
+    ],
+    "Caterers": [
+        "72232",
+        "722320"
+    ],
+    "Mobile Food Services": [
+        "72233",
+        "722330"
+    ],
+    "Drinking Places (Alcoholic Beverages)": [
+        "7224",
+        "72241",
+        "722410"
+    ],
+    "Restaurants and Other Eating Places": [
+        "7225",
+        "72251"
+    ],
+    "Full-Service Restaurants": [
+        "722511"
+    ],
+    "Limited-Service Restaurants": [
+        "722513"
+    ],
+    "Cafeterias, Grill Buffets, and Buffets": [
+        "722514"
+    ],
+    "Snack and Nonalcoholic Beverage Bars": [
+        "722515"
+    ],
+    "Other Services (except Public Administration)": [
+        "81"
+    ],
+    "Repair and Maintenance": [
+        "811"
+    ],
+    "Automotive Repair and Maintenance": [
+        "8111"
+    ],
+    "General Automotive Repair": [
+        "811111"
+    ],
+    "Specialized Automotive Repair": [
+        "811114"
+    ],
+    "Automotive Body, Paint, Interior, and Glass Repair": [
+        "81112"
+    ],
+    "Automotive Glass Replacement Shops": [
+        "811122"
+    ],
+    "Other Automotive Repair and Maintenance": [
+        "81119"
+    ],
+    "Automotive Oil Change and Lubrication Shops": [
+        "811191"
+    ],
+    "Car Washes": [
+        "811192"
+    ],
+    "All Other Automotive Repair and Maintenance": [
+        "811198"
+    ],
+    "Home and Garden Equipment Repair and Maintenance": [
+        "811411"
+    ],
+    "Appliance Repair and Maintenance": [
+        "811412"
+    ],
+    "Reupholstery and Furniture Repair": [
+        "81142",
+        "811420"
+    ],
+    "Footwear and Leather Goods Repair": [
+        "81143",
+        "811430"
+    ],
+    "Personal and Laundry Services": [
+        "812"
+    ],
+    "Personal Care Services": [
+        "8121"
+    ],
+    "Hair, Nail, and Skin Care Services": [
+        "81211"
+    ],
+    "Barber Shops": [
+        "812111"
+    ],
+    "Beauty Salons": [
+        "812112"
+    ],
+    "Nail Salons": [
+        "812113"
+    ],
+    "Other Personal Care Services": [
+        "81219",
+        "812199"
+    ],
+    "Diet and Weight Reducing Centers": [
+        "812191"
+    ],
+    "Death Care Services": [
+        "8122"
+    ],
+    "Funeral Homes and Funeral Services": [
+        "81221",
+        "812210"
+    ],
+    "Cemeteries and Crematories": [
+        "81222",
+        "812220"
+    ],
+    "Drycleaning and Laundry Services": [
+        "8123"
+    ],
+    "Coin-Operated Laundries and Drycleaners": [
+        "81231",
+        "812310"
+    ],
+    "Linen and Uniform Supply": [
+        "81233"
+    ],
+    "Linen Supply": [
+        "812331"
+    ],
+    "Industrial Launderers": [
+        "812332"
+    ],
+    "Other Personal Services": [
+        "8129"
+    ],
+    "Pet Care (except Veterinary) Services": [
+        "81291",
+        "812910"
+    ],
+    "Photofinishing": [
+        "81292"
+    ],
+    "Photofinishing Laboratories (except One-Hour)": [
+        "812921"
+    ],
+    "One-Hour Photofinishing": [
+        "812922"
+    ],
+    "Parking Lots and Garages": [
+        "81293",
+        "812930"
+    ],
+    "All Other Personal Services": [
+        "81299",
+        "812990"
+    ],
+    "Religious Organizations": [
+        "8131",
+        "81311",
+        "813110"
+    ],
+    "Grantmaking and Giving Services": [
+        "8132",
+        "81321"
+    ],
+    "Grantmaking Foundations": [
+        "813211"
+    ],
+    "Voluntary Health Organizations": [
+        "813212"
+    ],
+    "Other Grantmaking and Giving Services": [
+        "813219"
+    ],
+    "Social Advocacy Organizations": [
+        "8133",
+        "81331"
+    ],
+    "Human Rights Organizations": [
+        "813311"
+    ],
+    "Other Social Advocacy Organizations": [
+        "813319"
+    ],
+    "Civic and Social Organizations": [
+        "8134",
+        "81341",
+        "813410"
+    ],
+    "Business Associations": [
+        "81391",
+        "813910"
+    ],
+    "Professional Organizations": [
+        "81392",
+        "813920"
+    ],
+    "Labor Unions and Similar Labor Organizations": [
+        "81393",
+        "813930"
+    ],
+    "Political Organizations": [
+        "81394",
+        "813940"
+    ],
+    "Private Households": [
+        "814",
+        "8141",
+        "81411",
+        "814110"
+    ],
+    "Public Administration": [
+        "92"
+    ],
+    "Executive Offices": [
+        "92111",
+        "921110"
+    ],
+    "Legislative Bodies": [
+        "92112",
+        "921120"
+    ],
+    "Public Finance Activities": [
+        "92113",
+        "921130"
+    ],
+    "Executive and Legislative Offices, Combined": [
+        "92114",
+        "921140"
+    ],
+    "Other General Government Support": [
+        "92119",
+        "921190"
+    ],
+    "Justice, Public Order, and Safety Activities": [
+        "922",
+        "9221"
+    ],
+    "Courts": [
+        "92211"
+    ],
+    "Police Protection": [
+        "92212",
+        "922120"
+    ],
+    "Legal Counsel and Prosecution": [
+        "92213",
+        "922130"
+    ],
+    "Correctional Institutions": [
+        "92214",
+        "922140"
+    ],
+    "Parole Offices and Probation Offices": [
+        "92215",
+        "922150"
+    ],
+    "Fire Protection": [
+        "92216",
+        "922160"
+    ],
+    "Other Justice, Public Order, and Safety Activities": [
+        "922190"
+    ],
+    "Administration of Human Resource Programs": [
+        "923",
+        "9231"
+    ],
+    "Administration of Education Programs": [
+        "92311",
+        "923110"
+    ],
+    "Administration of Public Health Programs": [
+        "92312",
+        "923120"
+    ],
+    "Administration of Veterans' Affairs": [
+        "92314",
+        "923140"
+    ],
+    "Administration of Environmental Quality Programs": [
+        "9241"
+    ],
+    "Administration of Conservation Programs": [
+        "92412",
+        "924120"
+    ],
+    "Administration of Housing Programs": [
+        "92511",
+        "925110"
+    ],
+    "Administration of Economic Programs": [
+        "926",
+        "9261"
+    ],
+    "Administration of General Economic Programs": [
+        "92611",
+        "926110"
+    ],
+    "Space Research and Technology": [
+        "927",
+        "9271",
+        "92711",
+        "927110"
+    ],
+    "National Security and International Affairs": [
+        "928",
+        "9281"
+    ],
+    "National Security": [
+        "92811",
+        "928110"
+    ],
+    "International Affairs": [
+        "92812",
+        "928120"
+    ]
+}
