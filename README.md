@@ -1,2 +1,2 @@
 # NAICS
-NAICS (North American Industry Classification System) dataset 
+NAICS (North American Industry Classification System) Dataset 
